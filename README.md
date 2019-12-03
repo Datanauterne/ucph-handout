@@ -3,7 +3,7 @@
 handouts with University of Copenhagen logo.
 
 ## Example
-![Example Worksheet](/examples/example.png)
+![Example Worksheet](/examples/example.png | width=250)
 
 ## Installation
 There are three steps to installation:
