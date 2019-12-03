@@ -2,6 +2,9 @@
 `ucph-handout` is an unofficial LaTeX document class for producing
 handouts with University of Copenhagen logo.
 
+## Example
+![Example Worksheet](/examples/example.png)
+
 ## Installation
 There are three steps to installation:
  1. Clone or download the repository to your local machine
